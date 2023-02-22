@@ -4,4 +4,9 @@ body {
   font-family: Helvetica;
   color: white;
   text-align: center;
+  
+  .person {
+    background-image: url("resources/images/portrait.png");
+    border-radius: 50px;
+    
 }
