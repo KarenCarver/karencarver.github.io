@@ -4,10 +4,12 @@ body {
   font-family: Helvetica;
   color: white;
   text-align: center;
+}
   
   .person {
     height: 100px;
     border-radius: 50px;
+}
     
     /* Add a black background color to the top navigation */
 .topnav {
@@ -27,7 +29,7 @@ body {
     text-align: center;
     padding: 24px 16px;
     text-decoration: underline;
-    font-size: 17px;
+    font-size: 24px;
   }
   
   /* Change the color of links on hover */
@@ -42,4 +44,4 @@ body {
     color: white;
   }
     
-}
+
