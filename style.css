@@ -16,7 +16,7 @@ body {
     
     /* Add a black background color to the top navigation */
 .topnav {
-    background-color: black;
+    background-color: navy blue;
     overflow: hidden;
     position: fixed;
     top: 0;
@@ -44,7 +44,7 @@ body {
   /* Add a color to the active/current link */
   .topnav a.active {
     background-color: #04AA6D;
-    color: white;
+    color: teal;
   }
   
 .container3 {
