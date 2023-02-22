@@ -4,12 +4,14 @@ body {
   font-family: Helvetica;
   color: white;
   text-align: center;
+  margin: 20px;
 }
   
   img {
     height: 100px;
     border-radius: 50px;
     float: left;
+    padding: 20px;
 }
     
     /* Add a black background color to the top navigation */
